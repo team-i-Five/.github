@@ -4,19 +4,16 @@
   <img src="https://github.com/team-i-Five/team-i-Five/assets/31847834/c018dd49-7e8d-4156-9274-d2043fa1694b" alt="i-5" width="300" height="300">
 </div>
 
-### Issues
+----------------------------------------
 
-- 프로젝트 진행 상황 관리 및 관련 자료 첨부
+### 🎭 mumo Project
 
-### Projects
+- 개인 맞춤 뮤지컬 추천 서비스 mumo http://43.200.250.233:8080/
+- 프로젝트 결과보고서 https://drive.google.com/file/d/145xXgf-zBRggLdmkRSrEWiPqgi-660pL/view?usp=sharing
 
-- 프로젝트 일정 관리
+----------------------------------------
 
-<br>
-
-## 프로젝트 소개
-
-- ### 👐 Team members 
+### 👐 Team members 
 
 |이름|역할|개발파트|깃허브|개인 이메일|
 |---|:---|:---|:---|:---|
@@ -25,5 +22,3 @@
 |김하현|Agile coach|Data, Web|[hxhkim](https://github.com/hxhkim)|hahyun.h.kim@gmail.com|
 |강민정|Project coordinator|Machine-learning|[minjung00](https://github.com/minjung00)|kmj931208@gmail.com|
 |박수빈|Project coordinator|Machine-learning|[qkrtnqls1216](https://github.com/qkrtnqls1216)|qkrtnqls991216@gmail.com|
-
-
