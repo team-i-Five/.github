@@ -8,11 +8,12 @@
 
 ## 🎭 mumo Project
 
-**개인 맞춤 뮤지컬 추천 서비스 mumo**
-사이트 링크 : 3개의 서버를 사용하는 프로젝트이기에 현재 웹상에 배포되어있진 않습니다.
-대신 각자의 컴퓨터에서 테스트 할 수 있는 환경 조성을 위한, `Web, Ml, Data` 각각의 `DockerFile`가 폴더 별로 첨부되어있고,
+### 개인 맞춤 뮤지컬 추천 서비스 mumo
+사이트 링크 : 3개의 서버를 사용하는 프로젝트이기에 현재 웹상에 배포되어있진 않습니다.\
+대신 각자의 컴퓨터에서 테스트 할 수 있는 환경 조성을 위한, `Web, Ml, Data` 각각의 `DockerFile`가 폴더 별로 첨부되어있고,\
 `MySQL DB`를 생성하셔서 저희가 첨부해둔 데이터셋을 이용해서 테스트 해보실 수 있습니다.
-관련링크🔗 : https://github.com/team-i-Five/mumo-project
+
+**관련링크**🔗 : https://github.com/team-i-Five/mumo-project
 
 </br>
 
