@@ -13,7 +13,7 @@
 로컬 컴퓨터에서 테스트 할 수 있는 환경 조성을 위한, `Web, Ml, Data` 각각의 `DockerFile`가 폴더 별로 첨부되어있고,\
 `MySQL DB`를 생성하여 첨부해둔 데이터셋을 이용해서 테스트 해볼 수 있습니다.
 
-**관련링크**🔗 : https://github.com/team-i-Five/mumo-project
+**관련링크**🔗 : https://github.com/team-i-Five/mumo-project \
 **시연영상**🔗 : https://www.youtube.com/watch?v=etKlWn6jU4I
 
 </br>
